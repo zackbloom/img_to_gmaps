@@ -1,3 +1,9 @@
+GitHub Example
+=======
+
+Note that the for size reasons, only a couple of zoom levels are included in the GitHub examples, and they are *very* low res.
+Generate your own images to get a real idea of what it looks like.
+
 slice.py
 =======
 Splits image file given as command line argument into a set of tiles in 
