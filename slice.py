@@ -5,7 +5,7 @@ import shutil
 import Image
 
 ZOOM_MIN = 0
-ZOOM_MAX = 5
+ZOOM_MAX = 2
 TILE_WIDTH = 640
 TILE_HEIGHT = 480
 
