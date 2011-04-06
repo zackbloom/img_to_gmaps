@@ -1,8 +1,4 @@
-GitHub Example
-=======
-
-Note that the for size reasons, only a couple of zoom levels are included in the GitHub examples, and they are *very* low res.
-Generate your own images to get a real idea of what it looks like.
+You give an image, this slices it into tiles and includes an example page using Google Maps to render them.
 
 slice.py
 =======
