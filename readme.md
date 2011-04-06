@@ -1,4 +1,4 @@
-You give an image, this slices it into tiles and includes an example page using Google Maps to render them.
+You give an image, this slices it into tiles and includes an example page using Google Maps to render it.
 
 slice.py
 =======
